@@ -1,0 +1,22 @@
+[Map]
+author=
+image=Board.map
+wrap=no
+scroll=horizontal
+warn=yes
+ 
+[continents]
+asia 5
+europe 5
+
+[countries]
+1 india 1 30 40
+2 pakistan 1 50 60
+3 spain 2 12 34
+4 ibiza 2 78 90
+
+[borders]
+1 2 3
+2 1 4
+3 1 4
+4 3 2
