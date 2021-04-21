@@ -1,0 +1,14 @@
+[Map]
+author=
+image=Board.map
+wrap=no
+scroll=horizontal
+warn=yes
+ 
+[continents]
+b 5
+[countries]
+1 c 1
+2 d 1
+3 e 2
+4 f 2

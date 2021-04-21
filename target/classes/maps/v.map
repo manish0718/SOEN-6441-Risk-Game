@@ -1,0 +1,21 @@
+[Map]
+author=
+image=Board.map
+wrap=no
+scroll=horizontal
+warn=yes
+ 
+[continents]
+b 5
+aisa 5
+america 5
+ 
+[countries]
+3 e 1
+4 f 1
+5 g 1
+
+[borders]
+3 4 
+4 
+5 
